@@ -7,6 +7,7 @@ import authRoutes from './routes/auth.js';
 import restaurantRoutes from './routes/restaurants.js';
 import reviewRoutes from './routes/reviews.js';
 import orderRoutes from './routes/orders.js';
+import discoverRoutes from './routes/discover.js';
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/restaurants', restaurantRoutes);
 app.use('/api/reviews', reviewRoutes);
 app.use('/api/orders', orderRoutes);
+app.use('/api/discover', discoverRoutes);
 
 app.use(notFound);
 app.use(errorHandler);
