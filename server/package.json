@@ -1,7 +1,7 @@
 {
-  "name": "cockroachfoodapp-server",
+  "name": "slaps-server",
   "version": "1.0.0",
-  "description": "Backend API for CockroachFoodApp, a Zomato-like food delivery app",
+  "description": "Backend API for Slaps, a Zomato-like food delivery app",
   "type": "module",
   "main": "src/index.js",
   "scripts": {

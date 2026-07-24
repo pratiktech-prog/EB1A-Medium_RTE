@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "CockroachFoodApp",
-    "slug": "cockroachfoodapp-mobile",
+    "name": "Slaps",
+    "slug": "slaps-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.cockroachfoodapp.mobile",
+      "bundleIdentifier": "com.slaps.mobile",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.cockroachfoodapp.mobile"
+      "package": "com.slaps.mobile"
     },
     "extra": {
       "apiUrl": "http://localhost:5000/api"
