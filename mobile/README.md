@@ -1,4 +1,4 @@
-# Foodie mobile (iOS + Android)
+# CockroachFoodApp mobile (iOS + Android)
 
 A single React Native (Expo) app that runs natively on both iOS and Android from one
 codebase. It's a restaurant discovery app — search, browse details/photos/reviews, call

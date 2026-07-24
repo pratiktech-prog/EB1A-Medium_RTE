@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <Link to="/" className="brand">
-        Foodie
+        CockroachFoodApp
       </Link>
       <nav className="nav-links">
         <Link to="/">Restaurants</Link>

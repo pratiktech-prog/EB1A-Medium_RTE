@@ -1,4 +1,4 @@
-# Foodie — a Zomato-like food ordering app
+# CockroachFoodApp — a Zomato-like food ordering app
 
 A full-stack restaurant discovery and food ordering app: browse restaurants, view menus, add
 items to a cart, check out, track orders, leave reviews, and (for restaurant owners) manage

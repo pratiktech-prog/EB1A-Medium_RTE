@@ -17,7 +17,7 @@ const headerOptions = {
 function HomeStackNavigator() {
   return (
     <HomeStack.Navigator screenOptions={headerOptions}>
-      <HomeStack.Screen name="Home" component={HomeScreen} options={{ title: 'Foodie' }} />
+      <HomeStack.Screen name="Home" component={HomeScreen} options={{ title: 'CockroachFoodApp' }} />
       <HomeStack.Screen
         name="RestaurantDetail"
         component={RestaurantDetailScreen}

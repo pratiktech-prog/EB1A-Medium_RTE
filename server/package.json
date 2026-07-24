@@ -1,7 +1,7 @@
 {
-  "name": "zomato-clone-server",
+  "name": "cockroachfoodapp-server",
   "version": "1.0.0",
-  "description": "Backend API for a Zomato-like food delivery app",
+  "description": "Backend API for CockroachFoodApp, a Zomato-like food delivery app",
   "type": "module",
   "main": "src/index.js",
   "scripts": {

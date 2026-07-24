@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "Foodie",
-    "slug": "foodie-mobile",
+    "name": "CockroachFoodApp",
+    "slug": "cockroachfoodapp-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.foodie.mobile",
+      "bundleIdentifier": "com.cockroachfoodapp.mobile",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.foodie.mobile"
+      "package": "com.cockroachfoodapp.mobile"
     },
     "extra": {
       "apiUrl": "http://localhost:5000/api"

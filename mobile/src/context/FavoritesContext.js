@@ -1,7 +1,7 @@
 import { createContext, useCallback, useContext, useEffect, useState } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const STORAGE_KEY = 'foodie:favorites';
+const STORAGE_KEY = 'cockroachfoodapp:favorites';
 const FavoritesContext = createContext(null);
 
 export function FavoritesProvider({ children }) {
