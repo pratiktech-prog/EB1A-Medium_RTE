@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Slaps",
+    "slug": "slaps-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.slaps.mobile",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.slaps.mobile"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:5000/api"
+    }
+  }
+}
